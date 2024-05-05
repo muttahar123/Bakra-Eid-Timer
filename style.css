@@ -21,7 +21,8 @@ h1{
 
 .box{
     height: 100px;
-    width: 100px;
+    min-width: 100px;
+    padding: 100px;
     background-color: black;
     display: flex;
     justify-content: center;
